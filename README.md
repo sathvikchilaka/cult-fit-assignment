@@ -13,7 +13,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cult-fit-assignment.git
+   git clone https://github.com/sathvikchilaka/cult-fit-assignment.git
 
 2. Install the necessary dependencies, which is React-Icons in thi project
    ```bash
